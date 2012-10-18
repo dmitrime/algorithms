@@ -1,4 +1,5 @@
-algorithms
+Algorithms
 ==========
 
-Implementations of some well-known algorithms
+Implementations of some well-known algorithms, mostly for homework assignements.
+
